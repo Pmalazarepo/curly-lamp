@@ -8,3 +8,4 @@ bags
 Picnic requirements
 food
 Beer
+Camera
