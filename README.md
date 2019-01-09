@@ -5,3 +5,6 @@ Travellin requirements
 Clothing
 shoes
 bags 
+Picnic requirements
+food
+Beer
