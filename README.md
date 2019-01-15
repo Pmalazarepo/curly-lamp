@@ -9,3 +9,4 @@ Picnic requirements
 food
 Beer
 Camera
+Video Camera
